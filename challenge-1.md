@@ -32,7 +32,7 @@ We can’t wait for you to complete this and claim, **your PFP’s 🖼️**
  
 ## Submission Guidelines
 
-- Create a new branch `username_graphathon`, e.g. `YashJagtap_GraphAThon`
+- Create a new branch `username_graphathon`, e.g. `yash251_graphathon`
 
 - Create a file named as `solution-1.md` for this challenge. 
 

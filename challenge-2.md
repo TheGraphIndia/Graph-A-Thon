@@ -11,8 +11,8 @@ We can’t wait for you to complete this and claim, **your PFP’s 🖼️** and
 
 ## Hashtags Used
 
-- [ ] `#Graph-A-Thon`
-- [ ] `#TheGraphIndia`
+- [ ] `#graphathon`
+- [ ] `#graphIndia`
 
 ## Steps on how to Contribute ?
 

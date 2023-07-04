@@ -7,7 +7,7 @@ Deploy a simple smart contract on the Polygon Mumbai testnet and deploy a subgra
 
 ## Rewards
 
-We can’t wait for you to complete this and claim, **your PFP’s 🖼️**
+We can’t wait for you to complete this and claim, **your PFP’s 🖼️** and **$GRT**.
 
 ## Hashtags Used
 

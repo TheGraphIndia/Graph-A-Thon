@@ -48,11 +48,11 @@ contract Graphathon {
 }
 ```
  - Compile the contract and deploy it to Mumbai testnet using `Injected Provider` as the environment. Note down the address.
- - Verify and publish your smart contract (Don't know how? See [this](https://medium.com/etherscan-blog/verifying-contracts-on-etherscan-f995ab772327}))
+ - Verify and publish your smart contract (Don't know how? See [this](https://medium.com/etherscan-blog/verifying-contracts-on-etherscan-f995ab772327))
 
  - Go to the [Subgraph studio](https://thegraph.com/studio/) and connect your wallet.
 
- - Click on `Create a Subgraph`. Name your subgraph and select 'Polygon Mummbi' as the blockchain. Your subgraph is created.
+ - Click on `Create a Subgraph`. Name your subgraph and select 'Polygon Mumbai' as the blockchain network. Your subgraph is created 🤩.
 
  - You need to install The Graph protocol CLI to work with the subgraph.
   ```
@@ -62,7 +62,7 @@ OR
 ```
   yarn global add @graphprotocol/graph-cli
   ```
- - Create an empty folder and open it in your code editor (I love VSCode ❤️). Change directory to that folder and fire up your terminal pointing to that folder.
+ - Create an empty folder and open it in your code editor (I love VSCode ❤️). Change the directory to that folder and fire up your terminal pointing to that folder.
  - Now we will initialize the subgraph using the following command
 ```
 graph init --studio SUBGRAPH_NAME
@@ -82,7 +82,7 @@ graph init --studio SUBGRAPH_NAME
   ```
   graph auth --studio 5a6288af6001705f65d514e5423b018d
   ```
- - Change directory to your deployed subgraph folder
+ - Change the directory to your deployed subgraph folder
   ```
   cd graphathon
   ```
@@ -118,14 +118,14 @@ Make use of the dashboard to see the commands
 
 - Create a new branch `username_graphathon`, e.g. `yash251_graphathon`
 
-- Create a file named as `solution-2.md` for this challenge. 
+- Create a file named `solution-2.md` for this challenge. 
 
 - Add the contract address and the subgraph endpoint in the file.
 
-- Add details on the [**Airtable form**](https://airtable.com/).
+- Submit details on the [**Airtable form**](https://airtable.com/).
 
 -------
 
 [**Submission Challenge II form**](https://airtable.com/)
 
-*This is an Important step, please don't skip.*
+*This is an important step, please don't skip it.*

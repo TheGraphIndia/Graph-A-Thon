@@ -6,24 +6,24 @@ Create a React app and display data using the subgraph
 
 ## Rewards
 
-We can’t wait for you to complete this and claim, **your PFP’s 🖼️**
+We can’t wait for you to complete this and claim, **your PFP’s 🖼️** and **$GRT**
 
 ## Hashtags Used
 
-- [ ] `#Graph-A-Thon`
-- [ ] `#TheGraphIndia`
+- [ ] `#graphathon`
+- [ ] `#graphIndia`
 
-## Steps on how to Contribute ?
+## Steps on how to Contribute?
 
- - Create a folder / directory and open it in your code editor.
+ - Create a folder/directory and open it in your code editor.
 
  - We will create a React app. Open your terminal pointing towards the directory and run the following command
   ```
   npm create vite@latest
   ```
- - Enter Project Name as `frontend` or `client`.
+ - Enter the Project Name as `frontend` or `client`.
  - Select `React` as the framework and then select `JavaScript` (without SWC ❌).
- - Run the following commands to start. (You can refer your terminal)
+ - Run the following commands to start. (You can refer to your terminal)
   ```
   cd client
   ```
@@ -84,7 +84,7 @@ const query = `{
 }`
 ```
 
- - Create a client to access the Uniswap. We will make of `urql` for this. Add the following import statement at the top
+ - Create a client to access Uniswap. We will make of `urql` for this. Add the following import statement at the top
 ```javascript
 import { createClient } from 'urql';
 ```
@@ -188,9 +188,9 @@ export default App;
 
  - Make use of The Graph Playground to use different queries and display that data. (SKY IS THE LIMIT 🌌)
 
- - Create a new file with title `solution-3.md` and add the frontend screenshot in the file.
+ - Create a new file with the title `solution-3.md` and add the frontend screenshot in the file.
 
- - **[VERY IMPORTANT STEP]**  Add the link of this `solution-3.md` file to this [Graph-A-Thon challenge submission form](https://airtable.com/).
+ - **[🚨VERY IMPORTANT STEP🚨]**  Submit the link of this `solution-3.md` file to this [Graph-A-Thon challenge submission form](https://airtable.com/).
  
  
  (ex: https://github.com/username/Graph-Advocates--Graph-A-Thon-2023/blob/username_graphathon/solution-3.md)
@@ -201,14 +201,14 @@ export default App;
 
 - Create a new branch `username_graphathon`, e.g. `yash251_graphathon`
 
-- Create a file named as `solution-3.md` for this challenge. 
+- Create a file named `solution-3.md` for this challenge. 
 
 - Add the frontend screenshot in the file.
 
-- Add details on the [**Airtable form**](https://airtable.com/).
+- Submit details on the [**Airtable form**](https://airtable.com/).
 
 -------
 
 [**Submission Challenge III form**](https://airtable.com/)
 
-*This is an Important step, please don't skip.*
+*This is an important step, please don't skip it.*

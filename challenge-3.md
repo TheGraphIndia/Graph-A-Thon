@@ -63,7 +63,7 @@ We can’t wait for you to complete this and claim, **your PFP’s 🖼️** and
 
  - Go back to our `App.jsx` and store the URL in a variable inside the App function.
 ```javascript
-const QueryURL = https://gateway.thegraph.com/api/[api-key]/subgraphs/id/ELUcwgpm14LKPLrBRuVvPvNKHQ9HvwmtKgKSH6123cr7
+const QueryURL = "https://gateway.thegraph.com/api/[api-key]/subgraphs/id/ELUcwgpm14LKPLrBRuVvPvNKHQ9HvwmtKgKSH6123cr7"
 ```
  - You need an API Key to query the data. Under the Query URL you can see the option to `Manage API Keys`. Click on that and it will take you to create it. You can also create it using [this](https://thegraph.com/studio/apikeys/) link.
  - <img width="435" alt="Screenshot 2023-07-04 at 1 20 04 PM" src="https://github.com/TheGraphIndia/Graph-A-Thon/assets/47234407/81f2507f-c1fe-4eaa-a1c4-44386746502e">

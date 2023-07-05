@@ -50,7 +50,7 @@ We can’t wait for you to complete this and claim, **your PFP’s 🖼️** and
         <div>
   
         </div>
-      <>
+      </>
     )
   }
 

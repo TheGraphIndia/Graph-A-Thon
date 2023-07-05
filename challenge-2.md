@@ -1,4 +1,3 @@
-
 # 🌱 Challenge II: Deploy your own Subgraph
 
 ## Description
@@ -47,7 +46,7 @@ contract Graphathon {
     }
 }
 ```
- - Compile the contract and deploy it to Mumbai testnet using `Injected Provider` as the environment. Note down the address.
+ - Compile the contract and deploy it to Mumbai testnet using `Injected Provider` as the environment. Note down the contract address.
  - Verify and publish your smart contract (Don't know how? See [this](https://medium.com/etherscan-blog/verifying-contracts-on-etherscan-f995ab772327))
 
  - Go to the [Subgraph studio](https://thegraph.com/studio/) and connect your wallet.

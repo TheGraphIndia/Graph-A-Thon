@@ -190,7 +190,7 @@ export default App;
 
  - Create a new file with the title `solution-3.md` and add the frontend screenshot in the file.
 
- - **[🚨VERY IMPORTANT STEP🚨]**  Submit the link of this `solution-3.md` file to this [Graph-A-Thon challenge submission form](https://airtable.com/).
+ - **[🚨VERY IMPORTANT STEP🚨]**  Submit the link of this `solution-3.md` file to this [Graph-A-Thon challenge submission form](https://airtable.com/shrlvTpGLM0vCdHvE).
  
  
  (ex: https://github.com/username/Graph-Advocates--Graph-A-Thon-2023/blob/username_graphathon/solution-3.md)
@@ -205,10 +205,10 @@ export default App;
 
 - Add the frontend screenshot in the file.
 
-- Submit details on the [**Airtable form**](https://airtable.com/).
+- Submit details on the [**Airtable form**](https://airtable.com/shrlvTpGLM0vCdHvE).
 
 -------
 
-[**Submission Challenge III form**](https://airtable.com/)
+[**Submission Challenge III form**](https://airtable.com/shrlvTpGLM0vCdHvE)
 
 *This is an important step, please don't skip it.*

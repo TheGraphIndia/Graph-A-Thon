@@ -24,10 +24,10 @@ We can’t wait for you to complete this and claim, **your PFP’s 🖼️** and
   
 ## Submission Guidelines
 
-- **[🚨VERY IMPORTANT STEP🚨]**  Submit the link of the tweet to this [Graph-A-Thon challenge submission form](https://airtable.com/).
+- **[🚨VERY IMPORTANT STEP🚨]**  Submit the link of the tweet to this [Graph-A-Thon challenge submission form](https://airtable.com/shrlvTpGLM0vCdHvE).
 
 -------
 
-[**Submission Challenge I form**](https://airtable.com/)
+[**Submission Challenge I form**](https://airtable.com/shrlvTpGLM0vCdHvE)
 
 *This is an important step, please don't skip it.*

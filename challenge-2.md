@@ -106,7 +106,7 @@ Make use of the dashboard to see the commands
 
  - Create a new file with title `solution-2.md` and add the contract address and the subgraph endpoint in the file.
 
- - **[VERY IMPORTANT STEP]**  Add the link of this `solution-2.md` file to this [Graph-A-Thon challenge submission form](https://airtable.com/).
+ - **[VERY IMPORTANT STEP]**  Add the link of this `solution-2.md` file to this [Graph-A-Thon challenge submission form](https://airtable.com/shrlvTpGLM0vCdHvE).
  
  
  (ex: https://github.com/username/Graph-Advocates--Graph-A-Thon-2023/blob/username_graphathon/solution-2.md)
@@ -121,10 +121,10 @@ Make use of the dashboard to see the commands
 
 - Add the contract address and the subgraph endpoint in the file.
 
-- Submit details on the [**Airtable form**](https://airtable.com/).
+- Submit details on the [**Airtable form**](https://airtable.com/shrlvTpGLM0vCdHvE).
 
 -------
 
-[**Submission Challenge II form**](https://airtable.com/)
+[**Submission Challenge II form**](https://airtable.com/shrlvTpGLM0vCdHvE)
 
 *This is an important step, please don't skip it.*

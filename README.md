@@ -17,7 +17,7 @@
 
 ## Challenges
 
-⚠️ **IMPORTANT**: To be eligible for evaluation, make sure to submit your solutions through the [Graph-A-Thon Submission Form](https://airtable.com/shrNCmi6zP4RDklNi)
+⚠️ **IMPORTANT**: To be eligible for evaluation, make sure to submit your solutions through the [Graph-A-Thon Submission Form](https://airtable.com/shrlvTpGLM0vCdHvE)
 
 | Challenge    | Link                                                                                        | Description                                                    | Prizes                  |
 | ------------ | ------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ----------------------- |

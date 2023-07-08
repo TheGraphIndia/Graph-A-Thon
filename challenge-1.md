@@ -1,4 +1,3 @@
-
 # 🌱 Challenge I: Review The Graph Protocol Docs and Tweet Your Understanding
 
 ## Description

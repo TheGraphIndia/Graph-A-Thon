@@ -100,6 +100,7 @@ const client = createClient({
 ```javascript
 const [tokens, setTokens] = useState([]);
 ```
+
 ```javascript
 useEffect(() => {
   const getTokens = async () => {
@@ -130,7 +131,7 @@ return (
   );
 ```
 
- - Your final `App.jsx` should look like follows -:
+ - Your final `App.jsx` should look like this 👇🏻 -:
 ```javascript
 import { useEffect, useState } from 'react';
 import { createClient } from 'urql';

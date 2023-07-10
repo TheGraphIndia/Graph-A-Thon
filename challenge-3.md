@@ -187,7 +187,7 @@ export default App;
 
  - Wohooo! You did it. 🥳 Congratulationssss! Share it with the world.
 
- - Make use of The Graph Playground to use different queries and display that data. (SKY IS THE LIMIT 🌌)
+ - Make use of The Graph Playground in the dashboard to use different queries and display that data. (SKY IS THE LIMIT 🌌)
 
  - Create a new file with the title `solution-3.md` and add the frontend screenshot in the file.
 

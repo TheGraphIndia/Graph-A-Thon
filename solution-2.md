@@ -1,4 +1,4 @@
-# Details
+# solution-2.md
 
 ## Contract Address
 

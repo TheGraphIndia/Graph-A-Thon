@@ -96,7 +96,7 @@ Make use of the dashboard to see the commands
   ```
  - Final Step - Deploy your subgraph. 🥳🥳🥳
   ```
-  graph deploy --studio graphathon
+  graph deploy --studio SUBGRAPH_NAME
   ```
  - You can give the version as `v0.1`
 
